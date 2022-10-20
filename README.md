@@ -1,16 +1,22 @@
 Hi, I'm Ally Matimu 👋🏾 💻
 
-<!--
-**AllyMatimu/AllyMatimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m dedicated, motivated and result-oriented software developer possessing a passion for
+programming looking forward to earning the position in a software development team at this
+firm to showcase my skills in programming to generate high-end solutions to general software
+issues along with drawing better user experience, upgrade current systems to the updated
+technology and innovate new software solutions to solve existing problems and make a better
+prevention for anticipated software difficulties.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are some of my development projects;-
+  https://mojabora.com/
+  https://matangazo.co.tz/
+  https://dahaboluxury.com/
+  https://www.quantum.co.tz/
+  
+Currently Working at *Quantum Infinity LTD*
+
+
+Contact Me @
+
+https://www.linkedin.com/in/ally-matimu/
