@@ -16,7 +16,7 @@ These are some of my development projects;-
   <li>https://www.quantum.co.tz/</li>
  </ul>
   
-Currently Working at <b>Quantum Infinity LTD</b>
+Currently Working at <b>Quantum Infinity LTD.</b>
 
 
 Contact Me @
