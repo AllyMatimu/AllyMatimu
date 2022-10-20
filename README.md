@@ -9,12 +9,14 @@ prevention for anticipated software difficulties.
 
 
 These are some of my development projects;-
-  https://mojabora.com/
-  https://matangazo.co.tz/
-  https://dahaboluxury.com/
-  https://www.quantum.co.tz/
+<ul>
+  <li>https://mojabora.com/</li>
+  <li>https://matangazo.co.tz/</li>
+  <li>https://dahaboluxury.com/</li>
+  <li>https://www.quantum.co.tz/</li>
+ <ul>
   
-Currently Working at *Quantum Infinity LTD*
+Currently Working at <b>Quantum Infinity LTD</b>
 
 
 Contact Me @
