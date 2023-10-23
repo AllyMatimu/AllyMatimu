@@ -17,7 +17,8 @@ These are some of my development projects;-
   <li>https://dms.mcl.co.tz/</li>
   <li>https://dukawix.com</li>
   <li>https://qigroup.tz</li>
-  <li>https://tv3.tz</li>
+  <li>https://tv3.co.tz</li>
+  <li>https://stbongo.co.tz</li>
  </ul>
   
 Currently Working at <b>Quantum Infinity LTD.</b>
