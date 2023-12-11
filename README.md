@@ -4,71 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ally Matimu | Software Developer</title>
-    <style>
-        body {
-  font-family: sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-.header {
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
-  text-align: center;
-}
-
-.avatar {
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  margin: 0 auto;
-}
-
-h1 {
-  font-size: 2em;
-  margin: 0;
-}
-
-p {
-  font-size: 1em;
-  line-height: 1.5em;
-}
-
-.main {
-  padding: 20px;
-}
-
-.bio {
-  margin-bottom: 20px;
-}
-
-.projects {
-  margin-bottom: 20px;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  margin-bottom: 10px;
-}
-
-a {
-  color: #333;
-  text-decoration: none;
-}
-
-.contact {
-  margin-bottom: 20px;
-}
-
-.contact img {
-  width: 20
-
-    </style>
 </head>
 <body>
   <header class="header">
@@ -97,11 +32,11 @@ a {
     </section>
     <section class="contact">
       <h2>Contact Me</h2>
-      <p>I'm currently working at Quantum Infinity LTD. Feel free to connect with me on LinkedIn:</p>
-      <a href="https://www.linkedin.com/in/ally-matimu/" target="_blank">
-        <img src="linkedin-icon.png" alt="LinkedIn">
+      <p><a href="mailto:allymatimu@gmail.com">allymatimu@gmail.com</a></p>
+      <p><a href="tel:+255747588058">+255 747 588 058</a></p>
+      <p><a href="https://www.linkedin.com/in/ally-matimu/" target="_blank">
         <span>Ally Matimu</span>
-      </a>
+      </a></p>
     </section>
   </main>
   <footer class="footer">
