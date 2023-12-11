@@ -3,11 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ally Matimu | Software Developer</title>
 </head>
 <body>
   <header class="header">
-    <img class="avatar" src="avatar.png" alt="Ally Matimu">
     <h1>Ally Matimu</h1>
     <p>Software Developer</p>
   </header>
