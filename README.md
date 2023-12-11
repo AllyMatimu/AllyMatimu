@@ -10,15 +10,15 @@ prevention for anticipated software difficulties.
 
 These are some of my development projects;-
 <ul>
-  <li>https://mojabora.com/</li>
-  <li>https://matangazo.co.tz/</li>
-  <li>https://dahaboluxury.com/</li>
-  <li>https://www.quantum.co.tz/</li>
-  <li>https://dms.mcl.co.tz/</li>
-  <li>https://dukawix.com</li>
-  <li>https://qigroup.tz</li>
-  <li>https://tv3.co.tz</li>
-  <li>https://stbongo.co.tz</li>
+    <li><a href="https://mojabora.com/" target="_blank">mojabora.com</a></li>
+    <li><a href="https://matangazo.co.tz/" target="_blank">matangazo.co.tz</a></li>
+    <li><a href="https://dahaboluxury.com/" target="_blank">dahaboluxury.com</a></li>
+    <li><a href="https://www.quantum.co.tz/" target="_blank">www.quantum.co.tz</a></li>
+    <li><a href="https://dms.mcl.co.tz/" target="_blank">dms.mcl.co.tz</a></li>
+    <li><a href="https://dukawix.com" target="_blank">dukawix.com</a></li>
+    <li><a href="https://qigroup.tz" target="_blank">qigroup.tz</a></li>
+    <li><a href="https://tv3.co.tz" target="_blank">tv3.co.tz</a></li>
+    <li><a href="https://stbongo.co.tz" target="_blank">stbongo.co.tz</a></li>
  </ul>
   
 Currently Working at <b>Quantum Infinity LTD.</b>
