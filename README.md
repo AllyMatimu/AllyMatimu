@@ -21,7 +21,7 @@
         <li><a href="https://matangazo.co.tz/" target="_blank">Matangazo</a></li>
         <li><a href="https://dahaboluxury.com/" target="_blank">Dahaboluxury</a></li>
         <li><a href="https://www.quantum.co.tz/" target="_blank">Quantum Infinity</a></li>
-        <li><a href="https://dms.mcl.co.tz/" target="_blank">MCL Document Management System</a></li>
+        <li><a href="https://dms.mcl.co.tz/" target="_blank">MCL Distribution Management System</a></li>
         <li><a href="https://dukawix.com" target="_blank">Dukawix</a></li>
         <li><a href="https://qigroup.tz" target="_blank">QI Group</a></li>
         <li><a href="https://tv3.co.tz" target="_blank">TV3 Tanzania</a></li>
