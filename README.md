@@ -26,6 +26,7 @@
         <li><a href="https://qigroup.tz" target="_blank">QI Group</a></li>
         <li><a href="https://tv3.co.tz" target="_blank">TV3 Tanzania</a></li>
         <li><a href="https://stbongo.co.tz" target="_blank">Stbongo</a></li>
+        <li><a href="https://demo.hotelpro.co.tz/" target="_blank">Hotel Pro - Hotel Booking management & sales.</li>
       </ul>
     </section>
     <section class="contact">
