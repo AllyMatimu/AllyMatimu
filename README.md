@@ -27,6 +27,7 @@
         <li><a href="https://tv3.co.tz" target="_blank">TV3 Tanzania</a></li>
         <li><a href="https://stbongo.co.tz" target="_blank">Stbongo</a></li>
         <li><a href="https://demo.hotelpro.co.tz/" target="_blank">Hotel Pro - Hotel Booking management & sales.</li>
+        <li><a href="https://demo.mauzopos.com/" target="_blank">Mauzo POS -  Inventory & Sales.</li>
       </ul>
     </section>
     <section class="contact">
